@@ -1,5 +1,6 @@
 https://codepen.io/angelg10/pen/poJpXzV?editors=1100
 
+// added semantic HTML and some CSS
 
     1. What is Semantic HTML?
      HTML that gives meaning to the content, like nav, section, h1-h6, etc.
