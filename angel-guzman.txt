@@ -8,7 +8,7 @@ https://codepen.io/angelg10/pen/poJpXzV?editors=1100
     1. What is Semantic HTML?
      HTML that gives meaning to the content, like nav, section, h1-h6, etc.
     2. What is HTML used for? 
-    To give structure to our webpage.
+     To give structure to our webpage.
     3. What is an attribute and where do we put it?
      Give us more information about elements, such as the 'href' attribute in the <a> tag.
     4. What is the h1 tag used for? How many times should I use it on a page?
